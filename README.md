@@ -5,8 +5,9 @@ I Dag skal vi arbejde med at lave relationer mellem flere tabeller i vores datab
 
 
 
-## Slides
+## Slides og Materialer
 * [Database Modeling: Relationships](https://github.com/dat17v1/16_Relationer_mellem_tabeller/blob/master/Slides/16%20-%20Database%20Modeling_%20Relationships.pdf)
+* [Joins made Visual](https://github.com/dat17v1/16_Relationer_mellem_tabeller/blob/master/Slides/)
 
 
 ## Øvelser
