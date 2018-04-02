@@ -1,4 +1,5 @@
 # 10 Relation between tables
+Today you will learn how to work with several tables and create relations between them. You will also learn how to query data from multiple tabels using SQL Joins
 
 ## Slides and Materialer
 * [Database Modeling: Relationships](https://github.com/dat17i/10_Relation_between_tables/blob/master/Slides/16%20-%20Database%20Modeling_%20Relationships.pdf)
